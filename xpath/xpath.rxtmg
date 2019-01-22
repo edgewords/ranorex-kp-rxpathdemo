@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.3">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="xpath"
+      id="ea681fab-bc06-4d71-bce6-91bdc9240ba8"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="xpath"
+      id="ea681fab-bc06-4d71-bce6-91bdc9240ba8"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
